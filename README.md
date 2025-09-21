@@ -49,6 +49,8 @@ Step 2: Update the ANSWER_KEY in scanner.py to match your sheet's correct answer
 
 Step 3: Run the script from your terminal.
 
+python scanner.py
+
 Bash
 
 python scanner.py
